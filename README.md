@@ -7,9 +7,9 @@ Clojure web scrapers for deployment to Heroku.
 Install [Leiningen](http://github.com/technomancy/leiningen).
 Clone the repository.
 
-  $ cd clojure-scrapers
-  $ lein deps
-  $ lein run -m clojure-scrapers.core
+	$ cd clojure-scrapers
+	$ lein deps
+	$ lein run -m clojure-scrapers.core
 
 ## License
 
